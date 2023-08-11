@@ -1,0 +1,7 @@
+C:\Users\autologon.CSED\Desktop\aula02\aula02\bin\Debug\aula02.exe.config
+C:\Users\autologon.CSED\Desktop\aula02\aula02\bin\Debug\aula02.exe
+C:\Users\autologon.CSED\Desktop\aula02\aula02\bin\Debug\aula02.pdb
+C:\Users\autologon.CSED\Desktop\aula02\aula02\obj\Debug\aula02.csproj.AssemblyReference.cache
+C:\Users\autologon.CSED\Desktop\aula02\aula02\obj\Debug\aula02.csproj.CoreCompileInputs.cache
+C:\Users\autologon.CSED\Desktop\aula02\aula02\obj\Debug\aula02.exe
+C:\Users\autologon.CSED\Desktop\aula02\aula02\obj\Debug\aula02.pdb
